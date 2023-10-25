@@ -1,6 +1,8 @@
 # MaaRemoteControllingServer
-A backend and frontend server for MAA(MaaAssistantArknights) remote controlling feature 
-一个为了MAA的远程控制功能编写的前后端 
+A backend and frontend server for MAA(MaaAssistantArknights) remote controlling feature  
+一个为了MAA的远程控制功能编写的前后端  
+
+[ Original Project | 源工程 ](https://github.com/MaaAssistantArknights/MaaAssistantArknights)  
 
 文档仓促写成，有误还请指正. 
 Document wrote in hurry,raise issues if there is any wrong. 
